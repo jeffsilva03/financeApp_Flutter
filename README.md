@@ -194,12 +194,13 @@ Este projeto reflete meu compromisso em desenvolver soluções tecnológicas que
 
 ## 📞 Contato
 
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/jefferson-jsilva/)
-- **GitHub**: [Seu GitHub](https://github.com/jeffsilva03)
+- **LinkedIn**: [Jefferson Silva](https://www.linkedin.com/in/jefferson-jsilva/)
+- **GitHub**: [Jeff Silva](https://github.com/jeffsilva03)
 - **Email**: contato@jeffcode.com.br
 
 ---
 
 <div align="center">
+
 
 </div>
