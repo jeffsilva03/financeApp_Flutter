@@ -184,7 +184,7 @@ dependencies:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Jefferson Silva durante o **SP Skills - Modalidade #08**
+Desenvolvido por Jefferson Silva durante os treinamentos para a **SP Skills - Modalidade #08**
 
 ### 💡 Motivação
 
@@ -204,3 +204,4 @@ Este projeto reflete meu compromisso em desenvolver soluções tecnológicas que
 
 
 </div>
+
